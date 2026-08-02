@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2083562554627137982",
+    "created_at": "2026-08-01T14:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083562554627137982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Jason Zhang · 明天过后 · Song · 2008",
+          "display_url": "open.spotify.com/track/7n90R277…",
+          "end": 23,
+          "expanded_url": "https://open.spotify.com/track/7n90R277zv0ovKBFuiMR8r?si=W7AiX3aJT3-NKfGbmH9SNA&utm_source=twitter",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2083562555281457152/AzzRmx8c?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083562555281457152/AzzRmx8c?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "明天过后",
+          "unwound_url": "https://open.spotify.com/track/7n90R277zv0ovKBFuiMR8r?si=W7AiX3aJT3-NKfGbmH9SNA&utm_source=twitter",
+          "url": "https://t.co/PkJqS4fENN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083562554627137982",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PkJqS4fENN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2083562554627137982",
+        "created_at": "2026-08-01T14:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083562554627137982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Jason Zhang · 明天过后 · Song · 2008",
+              "display_url": "open.spotify.com/track/7n90R277…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/7n90R277zv0ovKBFuiMR8r?si=W7AiX3aJT3-NKfGbmH9SNA&utm_source=twitter",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2083562555281457152/AzzRmx8c?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083562555281457152/AzzRmx8c?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "明天过后",
+              "unwound_url": "https://open.spotify.com/track/7n90R277zv0ovKBFuiMR8r?si=W7AiX3aJT3-NKfGbmH9SNA&utm_source=twitter",
+              "url": "https://t.co/PkJqS4fENN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083562554627137982",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PkJqS4fENN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 131,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1310
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}

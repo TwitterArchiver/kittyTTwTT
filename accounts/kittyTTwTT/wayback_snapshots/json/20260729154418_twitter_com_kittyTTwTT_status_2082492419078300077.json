@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082492410945548288"
+      ]
+    },
+    "author_id": "1791359327501955072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082492419078300077",
+    "created_at": "2026-07-29T15:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082492419078300077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JbXezjcBfv",
+          "end": 61,
+          "expanded_url": "https://x.com/kittyTTwTT/status/2082492419078300077/photo/1",
+          "media_key": "3_2082492410945548288",
+          "start": 38,
+          "url": "https://t.co/JbXezjcBfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082492419078300077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是真的要出家啊喂！生活还没走到这一步，只是觉得将来可以选择这种生活方式 https://t.co/JbXezjcBfv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2082492410945548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZ_0HHbMAAdhUB.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082492410945548288"
+          ]
+        },
+        "author_id": "1791359327501955072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082492419078300077",
+        "created_at": "2026-07-29T15:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082492419078300077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JbXezjcBfv",
+              "end": 61,
+              "expanded_url": "https://x.com/kittyTTwTT/status/2082492419078300077/photo/1",
+              "media_key": "3_2082492410945548288",
+              "start": 38,
+              "url": "https://t.co/JbXezjcBfv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082492419078300077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是真的要出家啊喂！生活还没走到这一步，只是觉得将来可以选择这种生活方式 https://t.co/JbXezjcBfv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n不约不认识没有好友位什么都不\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 130,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1275
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}
