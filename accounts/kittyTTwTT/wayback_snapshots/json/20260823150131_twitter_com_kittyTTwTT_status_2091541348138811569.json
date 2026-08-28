@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2091519103739826435",
+    "created_at": "2026-08-23T15:01:31.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091541348138811569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2040418548909268992",
+          "start": 0,
+          "username": "catdogwlrd123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091541348138811569",
+    "in_reply_to_user_id": "2040418548909268992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091519103739826435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catdogwlrd123 原来我收到的是保护警告吗😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091519103739826435].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091519103739826435",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091519103739826435"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2091519103739826435",
+        "created_at": "2026-08-23T15:01:31.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091541348138811569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2040418548909268992",
+              "start": 0,
+              "username": "catdogwlrd123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091541348138811569",
+        "in_reply_to_user_id": "2040418548909268992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091519103739826435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catdogwlrd123 原来我收到的是保护警告吗😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2091541348138811569",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 135,
+          "like_count": 1360,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1431
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T13:20:02.000Z",
+        "description": "你好",
+        "id": "2040418548909268992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2040420517077983472",
+        "name": "kio",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040418548909268992/1775308942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043913867563282432/6Y7CFN1Y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 0,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "catdogwlrd123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

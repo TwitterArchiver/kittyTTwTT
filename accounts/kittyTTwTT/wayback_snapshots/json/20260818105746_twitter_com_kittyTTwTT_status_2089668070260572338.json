@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2089572263565947121",
+    "created_at": "2026-08-18T10:57:46.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089668070260572338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916261157272489988",
+          "start": 0,
+          "username": "EomLin43194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089668070260572338",
+    "in_reply_to_user_id": "1916261157272489988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089572263565947121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EomLin43194 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2089572263565947121",
+        "created_at": "2026-08-18T10:57:46.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089668070260572338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916261157272489988",
+              "start": 0,
+              "username": "EomLin43194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089668070260572338",
+        "in_reply_to_user_id": "1916261157272489988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089572263565947121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EomLin43194 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916261157272489988",
+        "conversation_id": "2089572263565947121",
+        "created_at": "2026-08-18T04:37:04.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089572263565947121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089572263565947121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7189,
+          "like_count": 130,
+          "quote_count": 5,
+          "reply_count": 29,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "从你发推的频率我就能看出你是个农村人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2089668070260572338",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 136,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1409
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T22:40:49.000Z",
+        "description": "恨天地生万物，而非仅你我",
+        "id": "1916261157272489988",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089666434641326330",
+        "name": "eom lin",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089230993505042432/EHCyQG7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 146,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "EomLin43194",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

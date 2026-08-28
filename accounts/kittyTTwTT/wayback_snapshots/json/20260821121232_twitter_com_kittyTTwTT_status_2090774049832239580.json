@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2090774049832239580",
+    "created_at": "2026-08-21T12:12:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:12:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090774049832239580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807297503714566144",
+          "start": 3,
+          "username": "ceqiaoshizhende"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090774049832239580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090424660810985896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceqiaoshizhende: 下辈子一定要重生为清华姚班 北大元培  上交ieee 复旦微电子 浙大竺可桢 南大人工智能 科大严济慈 武大雷军班 华科光电启明 西交钱学森 北航计算机 哈工大院士班 北理徐特立 东南吴健雄 中山本博口腔 川大华西 人大涉外法 同济国豪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2090774049832239580",
+        "created_at": "2026-08-21T12:12:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090774049832239580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807297503714566144",
+              "start": 3,
+              "username": "ceqiaoshizhende"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090774049832239580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090424660810985896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceqiaoshizhende: 下辈子一定要重生为清华姚班 北大元培  上交ieee 复旦微电子 浙大竺可桢 南大人工智能 科大严济慈 武大雷军班 华科光电启明 西交钱学森 北航计算机 哈工大院士班 北理徐特立 东南吴健雄 中山本博口腔 川大华西 人大涉外法 同济国豪…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807297503714566144",
+        "conversation_id": "2090424660810985896",
+        "created_at": "2026-08-20T13:04:12.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090424660810985896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090424660810985896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 24750,
+          "like_count": 224,
+          "quote_count": 3,
+          "reply_count": 127,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "下辈子一定要重生为清华姚班 北大元培  上交ieee 复旦微电子 浙大竺可桢 南大人工智能 科大严济慈 武大雷军班 华科光电启明 西交钱学森 北航计算机 哈工大院士班 北理徐特立 东南吴健雄 中山本博口腔 川大华西 人大涉外法 同济国豪精英 北师励耘的理工男T^T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2090774049832239580",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 137,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1425
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-30T06:18:17.000Z",
+        "description": "那时候过度依赖你而暴露出的孩子气，其实你从没觉得可爱过对吧。",
+        "id": "1807297503714566144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090756324917383421",
+        "name": "兔兔狗",
+        "pinned_tweet_id": "2089567002004533435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807297503714566144/1787064487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089725990650224640/Ityozdvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2799,
+          "following_count": 99,
+          "like_count": 2691,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "ceqiaoshizhende",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2083572077664272802",
+    "created_at": "2026-08-01T15:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083572077664272802"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083572077664272802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果同学不算朋友，那我和所有的朋友都已经超过一年没见了，其中一个更是三年之久，但是并不是说我朋友很多，也只有四个这样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2083572077664272802",
+        "created_at": "2026-08-01T15:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083572077664272802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083572077664272802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果同学不算朋友，那我和所有的朋友都已经超过一年没见了，其中一个更是三年之久，但是并不是说我朋友很多，也只有四个这样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 131,
+          "like_count": 1219,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}

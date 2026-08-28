@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2087509974935089398",
+    "created_at": "2026-08-13T01:28:11.000Z",
+    "display_text_range": [
+      13,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087712791113396350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027535879682854912",
+          "start": 0,
+          "username": "life1564847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087712791113396350",
+    "in_reply_to_user_id": "2027535879682854912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087509974935089398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life1564847 天生的或者科技的ㅠㅠ本身条件不好很难练出来😭尤其是小个子腰短就更不容易有腰线了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2087509974935089398",
+        "created_at": "2026-08-13T01:28:11.000Z",
+        "display_text_range": [
+          13,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087712791113396350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027535879682854912",
+              "start": 0,
+              "username": "life1564847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087712791113396350",
+        "in_reply_to_user_id": "2027535879682854912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087509974935089398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life1564847 天生的或者科技的ㅠㅠ本身条件不好很难练出来😭尤其是小个子腰短就更不容易有腰线了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027535879682854912",
+        "conversation_id": "2087509974935089398",
+        "created_at": "2026-08-12T12:02:16.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087509974935089398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087509974935089398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1799,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沙漏腰都是咋练出来的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2087712791113396350",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 137,
+          "like_count": 1302,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1387
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "神秘人。不约不谈不聊。纯发骚。号主很萌谢谢。敢给我发🐦的我把你🐦剁了。",
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087614926072455184",
+        "name": "life",
+        "pinned_tweet_id": "2087040946953216036",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 82,
+          "like_count": 3464,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

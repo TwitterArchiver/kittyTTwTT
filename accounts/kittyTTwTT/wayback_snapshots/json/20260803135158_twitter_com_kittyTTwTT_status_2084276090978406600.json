@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2084271597150666755",
+    "created_at": "2026-08-03T13:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084276090978406600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942995969043501056",
+          "start": 0,
+          "username": "XIAOMAIMI_miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084276090978406600",
+    "in_reply_to_user_id": "1942995969043501056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084271597150666755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIAOMAIMI_miao 等我喝了富澈的山竹酒给你出测评麦，我今年暑假一定喝到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084271597150666755",
+        "created_at": "2026-08-03T13:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084276090978406600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942995969043501056",
+              "start": 0,
+              "username": "XIAOMAIMI_miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084276090978406600",
+        "in_reply_to_user_id": "1942995969043501056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084271597150666755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIAOMAIMI_miao 等我喝了富澈的山竹酒给你出测评麦，我今年暑假一定喝到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2084271597150666755",
+        "created_at": "2026-08-03T13:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084271597150666755"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084271597150666755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想喝酒啊。。。🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 131,
+          "like_count": 1234,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "此账号由一只邪恶奶牛猫经营(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ止于推ᶻz ₍^_   ̫ _^₎",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2047341329148256551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072786489851953152/TcJdBANj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9361,
+          "following_count": 268,
+          "like_count": 26688,
+          "listed_count": 33,
+          "media_count": 30,
+          "tweet_count": 2539
+        },
+        "url": "",
+        "username": "XIAOMAIMI_miao",
+        "verified": false
+      }
+    ]
+  }
+}

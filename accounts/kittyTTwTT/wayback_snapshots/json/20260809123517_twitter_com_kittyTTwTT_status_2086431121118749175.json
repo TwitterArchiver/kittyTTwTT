@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2086431121118749175",
+    "created_at": "2026-08-09T12:35:17.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086431121118749175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086431121118749175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈对我自己买的衣服嗤之以鼻，认为我能买到什么好东西，我说可是你买的价格五倍的衣服好像跟我的面料一样( ´◔‸◔`)她又开始说一定是因为我买的衣服设计不好o_O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2086431121118749175",
+        "created_at": "2026-08-09T12:35:17.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086431121118749175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086431121118749175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈对我自己买的衣服嗤之以鼻，认为我能买到什么好东西，我说可是你买的价格五倍的衣服好像跟我的面料一样( ´◔‸◔`)她又开始说一定是因为我买的衣服设计不好o_O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2086431121118749175",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 136,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

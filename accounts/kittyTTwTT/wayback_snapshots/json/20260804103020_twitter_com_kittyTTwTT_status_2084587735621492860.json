@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2084575052046217548",
+    "created_at": "2026-08-04T10:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084587735621492860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1797882215747158016",
+          "start": 0,
+          "username": "carpediemx01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084587735621492860",
+    "in_reply_to_user_id": "1797882215747158016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084575052046217548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@carpediemx01 这个文案满满的优越感……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084575052046217548",
+        "created_at": "2026-08-04T10:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084587735621492860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1797882215747158016",
+              "start": 0,
+              "username": "carpediemx01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084587735621492860",
+        "in_reply_to_user_id": "1797882215747158016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084575052046217548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@carpediemx01 这个文案满满的优越感……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797882215747158016",
+        "conversation_id": "2084575052046217548",
+        "created_at": "2026-08-04T09:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084575052046217548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084575052046217548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "至今不懂为什么网络上大家都在说“不结婚不生孩子一切事情都还有救” “结婚了一切都完了” “结婚后一地鸡毛” 然后现实中我认识的人知道我结婚后都说好羡慕他们也想结婚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 132,
+          "like_count": 1240,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1334
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T06:45:17.000Z",
+        "description": "",
+        "id": "1797882215747158016",
+        "name": "银杏微白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069788122909401088/UthAUuQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10017,
+          "following_count": 55,
+          "like_count": 2729,
+          "listed_count": 34,
+          "media_count": 575,
+          "tweet_count": 4864
+        },
+        "url": "",
+        "username": "carpediemx01",
+        "verified": false
+      }
+    ]
+  }
+}

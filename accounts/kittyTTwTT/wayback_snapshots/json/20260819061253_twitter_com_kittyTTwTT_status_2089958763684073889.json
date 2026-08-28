@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2089958185973186941",
+    "created_at": "2026-08-19T06:12:53.000Z",
+    "display_text_range": [
+      13,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089958763684073889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1651352228936941568",
+          "start": 0,
+          "username": "Arockandrew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089958763684073889",
+    "in_reply_to_user_id": "1651352228936941568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089958185973186941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arockandrew 清明节没调休的三天和前后两周是我上半年最爽的时候，感觉活着都不累了，上学也不枯燥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2089958185973186941",
+        "created_at": "2026-08-19T06:12:53.000Z",
+        "display_text_range": [
+          13,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089958763684073889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089958763684073889",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089958185973186941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew 清明节没调休的三天和前后两周是我上半年最爽的时候，感觉活着都不累了，上学也不枯燥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651352228936941568",
+        "conversation_id": "2089958185973186941",
+        "created_at": "2026-08-19T06:10:35.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089958185973186941"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089958185973186941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有节日就促进消费(大家都开始转账买花开房吃漂亮饭)，那应该每月每周多安排点这种节日，再放个假更好了(绝对不是我想回家睡觉)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2089958763684073889",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 136,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1416
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "██  | ██主义| 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。 |",
+        "id": "1651352228936941568",
+        "is_identity_verified": false,
+        "location": "England, United Kingdom",
+        "most_recent_tweet_id": "2089958185973186941",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1877239299684311421",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 581,
+          "like_count": 36027,
+          "listed_count": 8,
+          "media_count": 1073,
+          "tweet_count": 13749
+        },
+        "url": "",
+        "username": "Arockandrew",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2085028846081024471",
+    "created_at": "2026-08-05T15:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085028846081024471"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085028846081024471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得青少年心理健康热线是个特别鸡肋的东西，虽然的确使用频率不高没什么人会真的在那儿求助，但是我打过一次，打了好几个没人接好不容易通了，那人一直在说教还说什么我比她孩子好多了，但是她的语气又很好我觉得直接挂断很不礼貌一直硬撑着听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2085028846081024471",
+        "created_at": "2026-08-05T15:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085028846081024471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085028846081024471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得青少年心理健康热线是个特别鸡肋的东西，虽然的确使用频率不高没什么人会真的在那儿求助，但是我打过一次，打了好几个没人接好不容易通了，那人一直在说教还说什么我比她孩子好多了，但是她的语气又很好我觉得直接挂断很不礼貌一直硬撑着听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 134,
+          "like_count": 1256,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1348
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}

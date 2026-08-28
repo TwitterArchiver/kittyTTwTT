@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082761138111188992",
+        "3_2082761138107035648"
+      ],
+      "media_source_tweet_id": [
+        "2083893577047044156",
+        "2083893577047044156"
+      ]
+    },
+    "author_id": "1791359327501955072",
+    "conversation_id": "2083917037458665478",
+    "created_at": "2026-08-02T14:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083917037458665478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055170005046853632",
+          "start": 3,
+          "username": "GANADI_TW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wPxWqZT3Cy",
+          "end": 45,
+          "expanded_url": "https://x.com/GANADI_TW/status/2083893577047044156/photo/1",
+          "media_key": "3_2082761138111188992",
+          "start": 22,
+          "url": "https://t.co/wPxWqZT3Cy"
+        },
+        {
+          "display_url": "pic.x.com/wPxWqZT3Cy",
+          "end": 45,
+          "expanded_url": "https://x.com/GANADI_TW/status/2083893577047044156/photo/1",
+          "media_key": "3_2082761138107035648",
+          "start": 22,
+          "url": "https://t.co/wPxWqZT3Cy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083917037458665478",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 482
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083893577047044156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GANADI_TW: 週末不要走… https://t.co/wPxWqZT3Cy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 307,
+        "media_key": "3_2082761138111188992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd0OF0bEAAjrv8.jpg",
+        "width": 354
+      },
+      {
+        "height": 271,
+        "media_key": "3_2082761138107035648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd0OFzbsAAI6A8.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082761138111188992",
+            "3_2082761138107035648"
+          ]
+        },
+        "author_id": "2055170005046853632",
+        "conversation_id": "2083893577047044156",
+        "created_at": "2026-08-02T12:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083893577047044156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPxWqZT3Cy",
+              "end": 30,
+              "expanded_url": "https://x.com/GANADI_TW/status/2083893577047044156/photo/1",
+              "media_key": "3_2082761138111188992",
+              "start": 7,
+              "url": "https://t.co/wPxWqZT3Cy"
+            },
+            {
+              "display_url": "pic.x.com/wPxWqZT3Cy",
+              "end": 30,
+              "expanded_url": "https://x.com/GANADI_TW/status/2083893577047044156/photo/1",
+              "media_key": "3_2082761138107035648",
+              "start": 7,
+              "url": "https://t.co/wPxWqZT3Cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083893577047044156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 38961,
+          "like_count": 1942,
+          "quote_count": 29,
+          "reply_count": 0,
+          "retweet_count": 482
+        },
+        "reply_settings": "everyone",
+        "text": "週末不要走… https://t.co/wPxWqZT3Cy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082761138111188992",
+            "3_2082761138107035648"
+          ],
+          "media_source_tweet_id": [
+            "2083893577047044156",
+            "2083893577047044156"
+          ]
+        },
+        "author_id": "1791359327501955072",
+        "conversation_id": "2083917037458665478",
+        "created_at": "2026-08-02T14:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083917037458665478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055170005046853632",
+              "start": 3,
+              "username": "GANADI_TW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPxWqZT3Cy",
+              "end": 45,
+              "expanded_url": "https://x.com/GANADI_TW/status/2083893577047044156/photo/1",
+              "media_key": "3_2082761138111188992",
+              "start": 22,
+              "url": "https://t.co/wPxWqZT3Cy"
+            },
+            {
+              "display_url": "pic.x.com/wPxWqZT3Cy",
+              "end": 45,
+              "expanded_url": "https://x.com/GANADI_TW/status/2083893577047044156/photo/1",
+              "media_key": "3_2082761138107035648",
+              "start": 22,
+              "url": "https://t.co/wPxWqZT3Cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083917037458665478",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 482
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083893577047044156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GANADI_TW: 週末不要走… https://t.co/wPxWqZT3Cy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 130,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1324
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T06:15:01.000Z",
+        "description": "@bdemgmr\n@GANADI_JP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "bdemgmr"
+              },
+              {
+                "end": 19,
+                "start": 9,
+                "username": "GANADI_JP"
+              }
+            ]
+          }
+        },
+        "id": "2055170005046853632",
+        "location": "📧ip@hnf.co.kr",
+        "name": "加那迪「官方」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055171164969009153/wH9GTh0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6741,
+          "following_count": 2,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "GANADI_TW",
+        "verified": true
+      }
+    ]
+  }
+}

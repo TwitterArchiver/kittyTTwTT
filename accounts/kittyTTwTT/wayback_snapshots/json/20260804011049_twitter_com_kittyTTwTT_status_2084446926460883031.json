@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2084445332969329033",
+    "created_at": "2026-08-04T01:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084446926460883031"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084446926460883031",
+    "in_reply_to_user_id": "1791359327501955072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084445332969329033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我舅一直秉持着父母在不远游的理念，呆在在我姥爷和姥姥身边，在这对父子关系中强势方永远是父亲。舅舅舅妈结婚的时候很年轻，我舅妈漂亮能干不抱怨，把家经营的很好，因为我姥爷想要孙子，第一胎是女儿，第二胎是女儿，之后迅速怀三胎终于生了个儿子，小表姐和表弟差了一岁，所以她们总觉得亏欠小表姐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084445332969329033",
+        "created_at": "2026-08-04T01:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084446926460883031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084446926460883031",
+        "in_reply_to_user_id": "1791359327501955072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084445332969329033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我舅一直秉持着父母在不远游的理念，呆在在我姥爷和姥姥身边，在这对父子关系中强势方永远是父亲。舅舅舅妈结婚的时候很年轻，我舅妈漂亮能干不抱怨，把家经营的很好，因为我姥爷想要孙子，第一胎是女儿，第二胎是女儿，之后迅速怀三胎终于生了个儿子，小表姐和表弟差了一岁，所以她们总觉得亏欠小表姐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084445332969329033",
+        "created_at": "2026-08-04T01:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084445332969329033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084445332969329033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我姥爷的一生都在家庭里过的很爽。我姥年轻的时候跟她结婚，没读过书不认识字，老公做什么她就帮着做什么，老公爱吃手擀面她就一直擀，生了一儿一女然而我姥爷六十岁还在跟我姥吵架闹离婚，因为我姥没有安全感但是我姥爷那时候觉得她是个疯女人。我舅到现在马上接近五十岁了都还很听他的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 132,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1328
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}

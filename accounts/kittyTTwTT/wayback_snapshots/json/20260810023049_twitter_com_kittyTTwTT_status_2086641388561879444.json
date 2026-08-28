@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086641371067383808"
+      ]
+    },
+    "author_id": "1791359327501955072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2086641388561879444",
+    "created_at": "2026-08-10T02:30:49.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T03:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086641388561879444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4UecUJY5sv",
+          "end": 29,
+          "expanded_url": "https://x.com/kittyTTwTT/status/2086641388561879444/photo/1",
+          "media_key": "3_2086641371067383808",
+          "start": 6,
+          "url": "https://t.co/4UecUJY5sv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086641388561879444",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086641371067383808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道了 https://t.co/4UecUJY5sv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_2086641371067383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPU9RYAbAAAJDrB.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086641371067383808"
+          ]
+        },
+        "author_id": "1791359327501955072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2086641388561879444",
+        "created_at": "2026-08-10T02:30:49.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T03:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086641388561879444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UecUJY5sv",
+              "end": 29,
+              "expanded_url": "https://x.com/kittyTTwTT/status/2086641388561879444/photo/1",
+              "media_key": "3_2086641371067383808",
+              "start": 6,
+              "url": "https://t.co/4UecUJY5sv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086641388561879444",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086641371067383808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道了 https://t.co/4UecUJY5sv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2086641388561879444",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 137,
+          "like_count": 1283,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1369
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

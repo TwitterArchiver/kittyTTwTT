@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2084840850694304184",
+    "created_at": "2026-08-05T03:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084840850694304184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756002511696396288",
+          "start": 3,
+          "username": "mengnvyimei"
+        },
+        {
+          "end": 26,
+          "id": "1493207192622845957",
+          "start": 17,
+          "username": "yummy9vq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084840850694304184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084686589301805388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengnvyimei: @yummy9vq 我还能有什么办法 于是我张开双脚踩死一切酸菜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084840850694304184",
+        "created_at": "2026-08-05T03:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084840850694304184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756002511696396288",
+              "start": 3,
+              "username": "mengnvyimei"
+            },
+            {
+              "end": 26,
+              "id": "1493207192622845957",
+              "start": 17,
+              "username": "yummy9vq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084840850694304184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084686589301805388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mengnvyimei: @yummy9vq 我还能有什么办法 于是我张开双脚踩死一切酸菜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756002511696396288",
+        "conversation_id": "2084557697345872338",
+        "created_at": "2026-08-04T17:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084686589301805388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493207192622845957",
+              "start": 0,
+              "username": "yummy9vq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084686589301805388",
+        "in_reply_to_user_id": "1493207192622845957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8554,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084557697345872338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yummy9vq 我还能有什么办法 于是我张开双脚踩死一切酸菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 132,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T17:10:05.000Z",
+        "description": "我呀 不是",
+        "id": "1756002511696396288",
+        "name": "Hrpcessssssss",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066180771514372096/yKST1hR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 64,
+          "like_count": 1224,
+          "listed_count": 1,
+          "media_count": 724,
+          "tweet_count": 3466
+        },
+        "url": "",
+        "username": "mengnvyimei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-14T12:55:26.000Z",
+        "description": "好吃懒做型选手🙋｜碎碎念｜想到什么发什么｜不招嫖不约炮｜推广自辨(注意评论开关）｜愿意听我絮叨就关注我喔",
+        "id": "1493207192622845957",
+        "location": "电报🚪99",
+        "name": "yummy",
+        "pinned_tweet_id": "2083495359666602329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062388823477407745/1rKMiIGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17015,
+          "following_count": 349,
+          "like_count": 5376,
+          "listed_count": 95,
+          "media_count": 238,
+          "tweet_count": 4526
+        },
+        "url": "",
+        "username": "yummy9vq",
+        "verified": true
+      }
+    ]
+  }
+}

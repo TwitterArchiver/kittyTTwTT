@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2088512869969408201",
+    "created_at": "2026-08-15T08:07:33.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088538068886356172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581937806435573760",
+          "start": 0,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088538068886356172",
+    "in_reply_to_user_id": "1581937806435573760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088512869969408201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fadai202202 再也不吃肥姨妈和蟹肉煲了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2088512869969408201",
+        "created_at": "2026-08-15T08:07:33.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088538068886356172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581937806435573760",
+              "start": 0,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088538068886356172",
+        "in_reply_to_user_id": "1581937806435573760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088512869969408201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fadai202202 再也不吃肥姨妈和蟹肉煲了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2088512869969408201",
+        "created_at": "2026-08-15T06:27:25.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088512869969408201"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088512869969408201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5014,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近在避谶 所以尽量不会去这些店：肥姨妈螺蛳粉 胖哥俩肉蟹煲 胖婶东北饺子馆 胖东来 喜姐炸串（店内ip形象很胖） 茶百道（形象胖熊猫）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2088538068886356172",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 136,
+          "like_count": 1308,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2088512869969408201",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1581937806435573760/1776524230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26802,
+          "following_count": 0,
+          "like_count": 1767,
+          "listed_count": 27,
+          "media_count": 518,
+          "tweet_count": 2874
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

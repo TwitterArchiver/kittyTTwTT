@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2087530940214206632",
+    "created_at": "2026-08-12T13:25:35.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087530940214206632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062460470997721088",
+          "start": 3,
+          "username": "qinshuobk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087530940214206632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087075101418324455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinshuobk: 发现想当小狗的人大多缺爱，很没有安全感，话里话外都带有一种很强烈的讨好感\n如果想要让小狗保持人类形态，就要一遍一遍不断告诉他：会很爱你，你想怎么样都可以，不会离开你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2087530940214206632",
+        "created_at": "2026-08-12T13:25:35.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087530940214206632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062460470997721088",
+              "start": 3,
+              "username": "qinshuobk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087530940214206632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087075101418324455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinshuobk: 发现想当小狗的人大多缺爱，很没有安全感，话里话外都带有一种很强烈的讨好感\n如果想要让小狗保持人类形态，就要一遍一遍不断告诉他：会很爱你，你想怎么样都可以，不会离开你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062460470997721088",
+        "conversation_id": "2087075101418324455",
+        "created_at": "2026-08-11T07:14:14.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087075101418324455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087075101418324455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 48944,
+          "like_count": 694,
+          "quote_count": 15,
+          "reply_count": 301,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "发现想当小狗的人大多缺爱，很没有安全感，话里话外都带有一种很强烈的讨好感\n如果想要让小狗保持人类形态，就要一遍一遍不断告诉他：会很爱你，你想怎么样都可以，不会离开你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2087530940214206632",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 136,
+          "like_count": 1299,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 1385
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T09:05:37.000Z",
+        "description": "来此记录一些所思所想\n疯狂输出一些碎碎念",
+        "id": "2062460470997721088",
+        "is_identity_verified": false,
+        "location": "月球",
+        "most_recent_tweet_id": "2087524389445394687",
+        "name": "秦硕",
+        "pinned_tweet_id": "2083612240733929842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062460470997721088/1785346794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062461931143991297/ht-wjmtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8874,
+          "following_count": 16,
+          "like_count": 914,
+          "listed_count": 12,
+          "media_count": 122,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "qinshuobk",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

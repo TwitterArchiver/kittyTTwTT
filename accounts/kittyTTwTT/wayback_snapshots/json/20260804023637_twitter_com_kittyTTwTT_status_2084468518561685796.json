@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2084465376797319243",
+    "created_at": "2026-08-04T02:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084468518561685796"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084468518561685796",
+    "in_reply_to_user_id": "1791359327501955072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084466596102459853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "初三第一次早恋，早恋对象是一个会因为任何事情生气摔东西打自己耳光的男孩，甚至会在我痛经找朋友安慰的时候说我是女同性恋。不过我写这么多也不是为了怪他们，给我带来伤害不意味他们是彻底的坏人，人之初性本善，人的恶劣不是凭空出现的，这些伤害并没有让我不能好好生活🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084465376797319243",
+        "created_at": "2026-08-04T02:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084468518561685796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084468518561685796",
+        "in_reply_to_user_id": "1791359327501955072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084466596102459853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初三第一次早恋，早恋对象是一个会因为任何事情生气摔东西打自己耳光的男孩，甚至会在我痛经找朋友安慰的时候说我是女同性恋。不过我写这么多也不是为了怪他们，给我带来伤害不意味他们是彻底的坏人，人之初性本善，人的恶劣不是凭空出现的，这些伤害并没有让我不能好好生活🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084465376797319243",
+        "created_at": "2026-08-04T02:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084466596102459853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084466596102459853",
+        "in_reply_to_user_id": "1791359327501955072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084465376797319243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我姥爷就像我说的是个皇帝，体贴的亲情就不要指望从他这里获得了。至于我爷爷在我出生之前就去世了，照片我都只见过一张。初二的时候我第一次喜欢一个男孩，他察觉到我的感情之后给出的回应是“可以给我发你的裸照吗”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 132,
+          "like_count": 1236,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1333
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}

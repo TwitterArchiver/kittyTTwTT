@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2090319495466545303",
+    "created_at": "2026-08-20T06:25:43.000Z",
+    "display_text_range": [
+      13,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090324380673081376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1651352228936941568",
+          "start": 0,
+          "username": "Arockandrew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090324380673081376",
+    "in_reply_to_user_id": "1651352228936941568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090319495466545303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arockandrew 这还不简单，下嘴狠一点直接流血留疤🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2090319495466545303",
+        "created_at": "2026-08-20T06:25:43.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090324380673081376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1651352228936941568",
+              "start": 0,
+              "username": "Arockandrew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090324380673081376",
+        "in_reply_to_user_id": "1651352228936941568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090319495466545303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arockandrew 这还不简单，下嘴狠一点直接流血留疤🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651352228936941568",
+        "conversation_id": "2090319495466545303",
+        "created_at": "2026-08-20T06:06:18.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090319495466545303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090319495466545303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "留下咬痕和淤青是亲密互动里非常色情的环节，可惜现实里的做出来的痕迹和记忆都会随着感情一起消失到不存在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2090324380673081376",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 135,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1420
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-26T22:27:15.000Z",
+        "description": "██  | ██主义| 世间牵扯无一不让人心痛，就像万有引力无处不在。我对你也痛，你对我也有引力。 |",
+        "id": "1651352228936941568",
+        "is_identity_verified": false,
+        "location": "England, United Kingdom",
+        "most_recent_tweet_id": "2090322474483474911",
+        "name": "andrsonrobot",
+        "pinned_tweet_id": "1877239299684311421",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651352531103109120/e2SjJj8f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 580,
+          "like_count": 36092,
+          "listed_count": 8,
+          "media_count": 1075,
+          "tweet_count": 13769
+        },
+        "url": "",
+        "username": "Arockandrew",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

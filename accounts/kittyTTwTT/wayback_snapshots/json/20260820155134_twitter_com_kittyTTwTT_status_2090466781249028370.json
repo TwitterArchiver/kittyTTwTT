@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1168446053839863808",
+          "name": "Kris Wu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1168446053839863808",
+          "name": "Kris Wu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Hip-Hop/Rap",
+          "id": "810937888334487552",
+          "name": "Rap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168446053839863808",
+          "name": "Kris Wu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291184917221535744",
+          "name": "Hip hop"
+        }
+      }
+    ],
+    "conversation_id": "2090385749506204153",
+    "created_at": "2026-08-20T15:51:34.000Z",
+    "display_text_range": [
+      9,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T16:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090466781249028370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1750564848096731136",
+          "start": 0,
+          "username": "yydwzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090466781249028370",
+    "in_reply_to_user_id": "1750564848096731136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090385749506204153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yydwzzz 还真不是，他和桃白白是同一个时期的人，21年，不过那个时候他没这么火，那段时间除了他俩还有那个kris wu的事闹的轰轰烈烈所以我记得很清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1168446053839863808",
+              "name": "Kris Wu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1168446053839863808",
+              "name": "Kris Wu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hip-Hop/Rap",
+              "id": "810937888334487552",
+              "name": "Rap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168446053839863808",
+              "name": "Kris Wu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291184917221535744",
+              "name": "Hip hop"
+            }
+          }
+        ],
+        "conversation_id": "2090385749506204153",
+        "created_at": "2026-08-20T15:51:34.000Z",
+        "display_text_range": [
+          9,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T16:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090466781249028370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1750564848096731136",
+              "start": 0,
+              "username": "yydwzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090466781249028370",
+        "in_reply_to_user_id": "1750564848096731136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090385749506204153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yydwzzz 还真不是，他和桃白白是同一个时期的人，21年，不过那个时候他没这么火，那段时间除了他俩还有那个kris wu的事闹的轰轰烈烈所以我记得很清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750564848096731136",
+        "conversation_id": "2090385749506204153",
+        "created_at": "2026-08-20T10:29:34.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T11:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090385749506204153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090385749506204153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48861,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很好奇🍑桃黑黑这个名字是不是他当时看🍑桃白白很火然后想出来的盗版id"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2090466781249028370",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 135,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-25T17:02:44.000Z",
+        "description": "😀",
+        "id": "1750564848096731136",
+        "is_identity_verified": false,
+        "location": "B612",
+        "most_recent_tweet_id": "2090464740980175084",
+        "name": "阿比",
+        "pinned_tweet_id": "2020996566312800412",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040594545772310528/obFLBqd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6898,
+          "following_count": 39,
+          "like_count": 423,
+          "listed_count": 10,
+          "media_count": 60,
+          "tweet_count": 1470
+        },
+        "url": "",
+        "username": "yydwzzz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

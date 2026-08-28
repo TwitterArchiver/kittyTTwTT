@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2084445332969329033",
+    "created_at": "2026-08-04T01:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084445332969329033"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084445332969329033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我姥爷的一生都在家庭里过的很爽。我姥年轻的时候跟她结婚，没读过书不认识字，老公做什么她就帮着做什么，老公爱吃手擀面她就一直擀，生了一儿一女然而我姥爷六十岁还在跟我姥吵架闹离婚，因为我姥没有安全感但是我姥爷那时候觉得她是个疯女人。我舅到现在马上接近五十岁了都还很听他的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2084445332969329033",
+        "created_at": "2026-08-04T01:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084445332969329033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084445332969329033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我姥爷的一生都在家庭里过的很爽。我姥年轻的时候跟她结婚，没读过书不认识字，老公做什么她就帮着做什么，老公爱吃手擀面她就一直擀，生了一儿一女然而我姥爷六十岁还在跟我姥吵架闹离婚，因为我姥没有安全感但是我姥爷那时候觉得她是个疯女人。我舅到现在马上接近五十岁了都还很听他的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 132,
+          "like_count": 1235,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}

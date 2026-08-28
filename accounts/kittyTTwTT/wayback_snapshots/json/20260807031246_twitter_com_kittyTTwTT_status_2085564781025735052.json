@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2085563843124891811",
+    "created_at": "2026-08-07T03:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085564781025735052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085564781025735052",
+    "in_reply_to_user_id": "1791359327501955072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085563843124891811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这一家子人都很神，去年我高考完跟我爸出门还会因为不带手机被夸今天表现很好，我不知道这算哪门子表现好，只觉得像是个完全没能长成独立个体的巨婴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2085563843124891811",
+        "created_at": "2026-08-07T03:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085564781025735052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085564781025735052",
+        "in_reply_to_user_id": "1791359327501955072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085563843124891811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一家子人都很神，去年我高考完跟我爸出门还会因为不带手机被夸今天表现很好，我不知道这算哪门子表现好，只觉得像是个完全没能长成独立个体的巨婴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2085563843124891811",
+        "created_at": "2026-08-07T03:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085563843124891811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085563843124891811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放假的时候我妈非要给我买一条桑蚕丝的裙子，我说我不要我也没场合穿，她说你同学聚会穿呗，事实上我也没有什么同学聚会。说我每天在家里躺的人也不好了风水也不好了，那我出去玩行了吧又开始你这个同学我不喜欢你真的要跟她一起出去？你们有什么好玩的啊，你还是不要穿这条裙子了领口有点大还是给我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "location": "by your side",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 138,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1359
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false
+      }
+    ]
+  }
+}
