@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2095155053992808697",
+    "created_at": "2026-09-02T23:44:09.000Z",
+    "display_text_range": [
+      13,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T00:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095296753012772991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1798255824571355136",
+          "start": 0,
+          "username": "RourouYang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095296753012772991",
+    "in_reply_to_user_id": "1798255824571355136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095155053992808697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RourouYang_ 对头发有用吧，我高三吃说是能让记忆力好一些，没感觉到有用但是汗毛长了很多，我之前胳膊上是没有的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2095155053992808697",
+        "created_at": "2026-09-02T23:44:09.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T00:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095296753012772991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1798255824571355136",
+              "start": 0,
+              "username": "RourouYang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095296753012772991",
+        "in_reply_to_user_id": "1798255824571355136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095155053992808697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RourouYang_ 对头发有用吧，我高三吃说是能让记忆力好一些，没感觉到有用但是汗毛长了很多，我之前胳膊上是没有的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798255824571355136",
+        "conversation_id": "2095155053992808697",
+        "created_at": "2026-09-02T14:21:05.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095155053992808697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095155053992808697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21901,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么最近墙内的dy博主突然开始大面积推鱼油（？）说是对皮肤和头发有好处到底是真的假的…有在考虑要不要买了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Shady Side, Maryland, United States",
+              "geo": {
+                "coordinates": [
+                  -76.51218,
+                  38.84178
+                ],
+                "type": "Point"
+              },
+              "locality": "Shady Side",
+              "region": "Maryland",
+              "sub_region": "Anne Arundel County"
+            }
+          ]
+        },
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2095296753012772991",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 144,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1475
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-05T07:29:42.000Z",
+        "description": "小羊想要 小羊得到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=w1d2otxc",
+                "start": 0,
+                "url": "https://t.co/8MEqOXdEMZ"
+              }
+            ]
+          }
+        },
+        "id": "1798255824571355136",
+        "is_identity_verified": false,
+        "location": "纯绿🚪188/288 自用🪜⬇️",
+        "most_recent_tweet_id": "2095194563216359895",
+        "name": "K᳐ilig᳐੭",
+        "pinned_tweet_id": "1948126581526044730",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798255824571355136/1755612250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005666874911236096/gNT3cjoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10883,
+          "following_count": 299,
+          "like_count": 35566,
+          "listed_count": 16,
+          "media_count": 1151,
+          "tweet_count": 14203
+        },
+        "url": "https://t.co/8MEqOXdEMZ",
+        "username": "RourouYang_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

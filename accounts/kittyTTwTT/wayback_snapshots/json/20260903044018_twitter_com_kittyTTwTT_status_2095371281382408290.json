@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2095210964060885135",
+    "created_at": "2026-09-03T04:40:18.000Z",
+    "display_text_range": [
+      9,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T05:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095371281382408290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2014474637124792320",
+          "start": 0,
+          "username": "Ste1laa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095371281382408290",
+    "in_reply_to_user_id": "2014474637124792320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095210964060885135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ste1laa 十二点四十分确诊自己是个屁股"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2095210964060885135",
+        "created_at": "2026-09-03T04:40:18.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095371281382408290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2014474637124792320",
+              "start": 0,
+              "username": "Ste1laa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095371281382408290",
+        "in_reply_to_user_id": "2014474637124792320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095210964060885135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ste1laa 十二点四十分确诊自己是个屁股"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014474637124792320",
+        "conversation_id": "2095210964060885135",
+        "created_at": "2026-09-02T18:03:15.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095210964060885135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095210964060885135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1337,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实非常讨厌沉溺在宏大叙事and巨大情绪里自我感动的人，他们总是觉得自己在思考，在做一些诗和远方的举动，其实只是闲的吃饱了没事做，因为真正的心里话是一个人把过去咀嚼了很久才吐出来的，但是天天吐的人是屁股吧，我现在一遇到别人开口是我能背诵的东西我就非常尖酸刻薄。。（这条包括我自己）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2095371281382408290",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 144,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1476
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-22T23:06:03.000Z",
+        "description": "直男 | 低脂作品 | 互关可＋V |  🖕 |  常驻 广东＆福建   |  会回关回赞 | 可以找我瓦 | tg为假 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/stella90897",
+                "end": 23,
+                "expanded_url": "https://ngl.link/stella90897",
+                "start": 0,
+                "url": "https://t.co/nlXJLvaoGS"
+              }
+            ]
+          }
+        },
+        "id": "2014474637124792320",
+        "is_identity_verified": false,
+        "location": "🚪6666   📬 NGL 👉",
+        "most_recent_tweet_id": "2095210964060885135",
+        "name": "stella",
+        "pinned_tweet_id": "2086138407114461527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2014474637124792320/1771375441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014478186017652736/nqNPza5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6055,
+          "following_count": 295,
+          "like_count": 10456,
+          "listed_count": 17,
+          "media_count": 274,
+          "tweet_count": 1587
+        },
+        "url": "https://t.co/nlXJLvaoGS",
+        "username": "Ste1laa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

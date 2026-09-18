@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1791359327501955072",
+    "conversation_id": "2100391685121507485",
+    "created_at": "2026-09-17T01:09:35.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100391685121507485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kittyttwtt/sta…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/kittyttwtt/status/2100213297270423809",
+          "start": 119,
+          "url": "https://t.co/9uTXUAyN5q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100391685121507485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100213297270423809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前水房那么远，用热水要提着水壶去打，还要提上五楼，不想打的话夏天还好，冬天那么冷，零下还要用冰水洗衣服刷牙洗脸，水房的热水也没办法喝，真的特别想哭呀，所以我现在太感动了，虽然现在也在一楼我还是得把水提到五楼，但是至少能喝而且没那么远了 https://t.co/9uTXUAyN5q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2100391685121507485",
+        "created_at": "2026-09-17T01:09:35.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100391685121507485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kittyttwtt/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/kittyttwtt/status/2100213297270423809",
+              "start": 119,
+              "url": "https://t.co/9uTXUAyN5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100391685121507485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100213297270423809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前水房那么远，用热水要提着水壶去打，还要提上五楼，不想打的话夏天还好，冬天那么冷，零下还要用冰水洗衣服刷牙洗脸，水房的热水也没办法喝，真的特别想哭呀，所以我现在太感动了，虽然现在也在一楼我还是得把水提到五楼，但是至少能喝而且没那么远了 https://t.co/9uTXUAyN5q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791359327501955072",
+        "conversation_id": "2100213297270423809",
+        "created_at": "2026-09-16T13:20:44.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T14:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100213297270423809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100213297270423809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实是特别容易满足的人。。。。。。仅仅是宿舍楼里终于装了两个烧水炉，能让我喝上开水我就觉得幸福起来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-05-17T06:45:40.000Z",
+        "description": "^🐽^\n想在你身边 不管有没有明天\n🍀",
+        "id": "1791359327501955072",
+        "is_identity_verified": false,
+        "location": "by your side",
+        "most_recent_tweet_id": "2100391685121507485",
+        "name": "手心忽然长出纠缠的曲线",
+        "pinned_tweet_id": "2039005372602876356",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791359327501955072/1782621920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056037076517433345/bFyPOOza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 148,
+          "like_count": 1441,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1502
+        },
+        "url": "",
+        "username": "kittyTTwTT",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
